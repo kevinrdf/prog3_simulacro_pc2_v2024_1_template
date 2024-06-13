@@ -13,7 +13,7 @@
 
 ### Template y Librería Standard – 7 puntos
 
-Diseñar y desarrollar template de función `remove_duplicates` que permita remover los valores duplicados de un contenedor o utilizando un predicado (Callable). La función debe permitir el uso de iterators y predicados, de modo que se remueve duplicados siguiendo adicionalmente un criterio definido por el predicado. el template debe retornar el iterator que apunta al final de la secuencia resultante.
+Diseñar y desarrollar los template de función `remove_duplicates` y  `remove_duplicates_if` que permita remover los valores duplicados de un contenedor o utilizando un predicado (Callable). La función debe permitir el uso de iterators y predicados, de modo que se remueve duplicados siguiendo adicionalmente un criterio definido por el predicado. el template debe retornar el iterator que apunta al final de la secuencia resultante.
 
 ```cpp
 #### Casos de uso:
