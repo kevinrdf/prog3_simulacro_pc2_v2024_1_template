@@ -1,0 +1,14 @@
+#input
+    6
+    1 Alice
+    2 Bob
+    1 Alice
+    3 Charlie
+    2 Bob
+    4 Dave
+#output
+    1 Alice
+    2 Bob
+    3 Charlie
+    4 Dave
+#endtest

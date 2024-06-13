@@ -1,0 +1,6 @@
+#input
+    6
+    apple banana apple cherry banana cherry
+#output
+    apple banana cherry
+#endtest
